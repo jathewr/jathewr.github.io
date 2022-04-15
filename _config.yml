@@ -1,6 +1,6 @@
 title: "Jari Matthew Roman De Jesus"
 author: "Jari Matthew Roman"
-description: "Bachelor's Degree in Economics at Pompeu Fabra University (UPF)"
+description: "Pompeu Fabra University (UPF)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,7 +8,7 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "mailto:jathew@gmail.com"}
   - {title: "Github", icon: github, url: "https://github.com/jathewr"}
-  - {title: "LinkedIn", icon: Linkedin, url: "https://www.linkedin.com/in/jarimatthewroman"}
+  - {title: "LinkedIn", icon: LinkedIn, url: "https://www.linkedin.com/in/jarimatthewroman"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
